@@ -1,7 +1,0 @@
-[4]
-main: rt.2.30298.0
- code: tempnow1
- inside: WS-rnn-tempnow1
-  src: 
-   link: " "
-   localhost: {1," "}
